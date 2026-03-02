@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.main-judul {
+    color: beige;
+    text-align: center;
+}
+
+ p {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 3px solid black;
+    margin: auto;
+    background-color: blanchedalmond;
+    text-align: center;
+    justify-content: center ;
+}
